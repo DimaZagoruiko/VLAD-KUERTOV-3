@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>PARTFOLIO</title>
+    </head>
+    <body>
+
+        <table cellpadding="10">
+            <tr>
+                <td>
+                    <img src="https://i.ytimg.com/vi/g9fr0HsaNsk/maxresdefault.jpg" height="200px" alt="фотка влада куертова">
+                </td>
+                <td>
+                    <h1>Влад Куертов</h1>
+                    <p><strong>Я являюсь основателем сервера gta5madjesic.ru</strong></p>
+                    <p><em>Я люблю сримить, кататься на бмв и говорить, что <strong>мерседес это хуетекс</strong></em></p>
+                </td>
+            </tr>
+        </table>
+
+        <hr color="black" size="2">
+
+        <h2>Мои социальные сети</h2>
+
+            <ol>
+                <li><a href="https://vk.com/kuertov?ysclid=l1hwisoesh" target="_blank">ВКОНТАКТЕ</a></li>
+                <li><a href="https://www.instagram.com/vladkuertov" target="_blank">ИНСТАГРАММ</a></li>
+                <li><a href="https://www.tiktok.com/discover/Vlad-Kuertov?lang=ru-RU" target="_blank">ТИК ТОК</a></li>
+            </ol>
+
+        <hr color="black" size="2">
+
+        <h2>Мои хобби</h2>
+
+            <ul>
+                <li>стриминг</li>
+                <li>быстрая езда на БМВ</li>
+                <li>Спорт-автомобильные гонки</li>
+                <li>путешествия</li>
+            </ul>
+
+        <hr color="black" size="2">
+
+
+        <h2>Рабочая Деятельность</h2>
+
+        <table border="1" bgcolor="brown">
+            <thead><tr>
+                    <th>кампания</th>
+                    <th>должность</th>
+                    <th>опыт работы</th>
+                </tr></thead>
+            <tbody> <tr>
+                    <td>madjesicgta5.rp</td>
+                    <td>основатель</td>
+                    <td>2 года</td> </tr>
+            </tbody>
+            </table>
+
+        <hr color="black" size="2">
+
+        <h2>Курсы по улучшению себя</h2>
+
+        <a href="BEST.KUERTOV.html" target="_blank">Список курсов</a>
+
+
+        <h2>Cвязаться со мной</h2>
+
+    <form action="javaskript">
+          <label for="name">Ваше имя:</label>
+            <input type="text" id="name" placeholder="Введите ваше имя">
+
+            <br> <br>
+
+         <label for="email">Ваш email:</label>
+            <input type="email" id="email" placeholder="Введите вашу почту">
+            <br>  <br>
+            <label for="text">Ваше Сообщение</label>
+            <br>
+            <textarea id="text" rows="2" cols="15"></textarea>
+            <br>
+            <input type="submit" value="Cвязаться.">
+
+        </form>
+    </body>
+
+
+
+</html>
